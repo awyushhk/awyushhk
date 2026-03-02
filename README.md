@@ -38,5 +38,5 @@ Still learning. Always will be.
 ### ⚙️ Tech I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,vscode,tensorflow,pytorch,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,vscode,notion,vercel,postman" />
 </p>
