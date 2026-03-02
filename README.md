@@ -1,30 +1,30 @@
-## hey, i'm ayush 👋
+## Hey, I'm Ayush 👋
 
-somewhere between curiosity and caffeine.
+Somewhere between curiosity and caffeine.
 
-i’m currently figuring out how the web really works!  
-not just building interfaces, but understanding systems behind them.
+I’m currently figuring out how the web really works.  
+Not just building interfaces, but understanding the systems behind them.
 
-lately, most of my time goes into:
-- sharpening my full stack instincts
-- diving deeper into cs fundamentals
-- experimenting with ai integration
-- breaking things and learning why they broke
+Lately, most of my time goes into:
+- Sharpening my full-stack instincts  
+- Diving deeper into CS fundamentals  
+- Experimenting with AI integration  
+- Breaking things and learning why they broke  
 
-i like building things that actually make sense.
-clarity over complexity.
+I like building things that actually make sense.  
+Clarity over complexity.
 
-i’m open to collaborating, learning, shipping, failing, improving.
+I’m open to collaborating, learning, shipping, failing, improving.
 
-open to collaborations, new ideas, and uncomfortable growth.  
-📫 gr8ayushkumar@gmail.com
+Open to collaborations, new ideas, and uncomfortable growth.  
+📫 gr8ayushkumar@gmail.com  
 
-still learning. always will be.
+Still learning. Always will be.
 
 ---
 
-### ⚙️ tech i work with
+### ⚙️ Tech i work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,tensorflow,pytorch,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,vscode,tensorflow,pytorch,vercel,postman" />
 </p>
