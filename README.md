@@ -5,7 +5,6 @@ Somewhere between curiosity and caffeine.
 <table>
 <tr>
 <td width="65%">
-
 I’m currently figuring out how the web really works.  
 Not just building interfaces, but understanding the systems behind them.
 
@@ -15,9 +14,7 @@ Lately, most of my time goes into:
 - Experimenting with AI integration  
 - Breaking things and learning why they broke  
 
-I like building things that actually make sense.  
-Clarity over complexity.
-
+I like building things that actually make sense. 
 </td>
 
 <td width="35%">
