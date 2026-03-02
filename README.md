@@ -4,17 +4,22 @@ Somewhere between curiosity and caffeine.
 
 <table>
 <tr>
-<td width="65%">
-I’m currently figuring out how the web really works.  
-Not just building interfaces, but understanding the systems behind them.
+<td width="65%" valign="top">
 
-Lately, most of my time goes into:
-- Sharpening my full-stack instincts  
-- Diving deeper into CS fundamentals  
-- Experimenting with AI integration  
-- Breaking things and learning why they broke  
+<p>I’m currently figuring out how the web really works.<br>
+Not just building interfaces, but understanding the systems behind them.</p>
 
-I like building things that actually make sense. 
+<p>Lately, most of my time goes into:</p>
+
+<ul>
+  <li>Sharpening my full-stack instincts🛠️</li>
+  <li>Diving deeper into CS fundamentals🧩</li>
+  <li>Experimenting with AI integration⚡</li>
+  <li>Breaking things and learning why they broke💀</li>
+</ul>
+
+<p>I like building things that actually make sense.</p>
+
 </td>
 
 <td width="35%">
