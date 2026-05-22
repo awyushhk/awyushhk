@@ -1,42 +1,50 @@
-## Hey, I'm Ayush 👋
-
-Somewhere between curiosity and caffeine.
-
-<table>
+<table align="center">
 <tr>
-<td width="65%" valign="top">
 
-<p>I’m currently figuring out how the web really works.<br>
-Not just building interfaces, but understanding the systems behind them.</p>
+<td width="42%" valign="middle" align="center">
 
-<p>Lately, most of my time goes into:</p>
-
-<ul>
-  <li>Sharpening my full-stack instincts🛠️</li>
-  <li>Diving deeper into CS fundamentals🧩</li>
-  <li>Experimenting with AI integration⚡</li>
-  <li>Breaking things and learning why they broke💀</li>
-</ul>
-
-<p>I like building things that actually make sense.</p>
+<a href="https://ayushkumarportfolio.vercel.app">
+<img
+src="https://i.postimg.cc/mDvdMwKs/Butcher.png"
+width="100%"
+style="min-width:350px;"
+/>
+</a>
 
 </td>
 
-<td width="35%">
-  <img src="https://media.giphy.com/media/4VLkYrTmVcbbTtICC1/giphy.gif" width="100%" />
-</td>
-</tr>
-</table>
+<td width="58%" valign="top">
 
-Open to collaborations, new ideas, and opportunities that push me outside my comfort zone.  
-📫 gr8ayushkumar@gmail.com  
+<div align="center">
 
-Still learning. Always will be.
+<h3>Ayush Kumar – Full Stack Developer</h3>
 
----
+<a href="https://ayushkumarportfolio.vercel.app">Visit Portfolio</a> ››
+<a href="https://www.linkedin.com/in/ayush-kumar100">LinkedIn</a> ››
+<a href="mailto:gr8ayushkumar@gmail.com">Get in touch</a>
 
-### ⚙️ Tech I work with
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,vscode,notion,vercel,postman" />
-</p>
+<p><strong>About</strong></p>
+
+I’m passionate about computers, backend systems, and modern web technologies, with a strong interest in building scalable full-stack applications and production-ready systems.<br> 
+I regularly practice problem solving and focus on system design to understand how reliable and efficient systems are built.
+
+<p><strong>What I Work With</strong></p>
+
+Languages: C++, JavaScript, TypeScript, Python<br>
+Backend: Node.js, Express.js<br>
+Frontend: Next.js, React, Tailwind CSS<br> 
+Databases: PostgreSQL, MongoDB, Neon, MySQL<br> 
+Systems: REST, WebSockets, backend architecture, reliability<br>
+Other: Docker, Postman, debugging, version control
+
+<p><strong>Current Focus and Learning</strong></p>
+
+&#45; Platform orchestration and backend system design<br>
+&#45; FastAPI and multi-agent workflow architecture<br>
+&#45; Infrastructure setup and system reliability<br>
+&#45; Building scalable AI workflows and production systems
+
+
+
